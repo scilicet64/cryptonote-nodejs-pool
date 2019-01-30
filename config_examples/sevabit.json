@@ -94,7 +94,8 @@
         "minPayment": 100000000000,
         "maxPayment": null,
         "maxTransactionAmount": 0,
-        "denomination": 1000000000
+        "denomination": 1000000000,
+        "useSplitTransfer": true
     },
 
     "blockUnlocker": {
